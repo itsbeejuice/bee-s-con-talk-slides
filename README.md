@@ -15,4 +15,5 @@
 ![Bee's FINAL con talk (14)](https://user-images.githubusercontent.com/77043377/168203778-2af0efe5-53d7-4d65-b450-ae33b9c79023.png)
 ![Bee's FINAL con talk (15)](https://user-images.githubusercontent.com/77043377/168203789-8304736f-c459-4f1b-a72c-768ca781ec65.png)
 
+[download here :)](https://github.com/itsbeejuice/bee-s-con-talk-slides/files/8683861/Bee.s.FINAL.con.talk.pdf)
 
