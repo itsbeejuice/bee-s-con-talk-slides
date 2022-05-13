@@ -1,8 +1,6 @@
 # bee-s-con-talk-slides
 ![Bee's FINAL con talk (16)](https://user-images.githubusercontent.com/77043377/168203567-de60a91d-9f40-4d3d-a76c-d9fce10f9e6b.png)
-![Bee's FINAL con talk (1)](https://user-images.gi
 ![Bee's FINAL con talk (2)](https://user-images.githubusercontent.com/77043377/168203599-c33be1c6-9bc7-4cb7-9147-fe262d5f87ee.png)
-thubusercontent.com/77043377/168203592-2ddb7b58-59f2-48f0-9a5b-3a0fb1c833ed.png)
 ![Bee's FINAL con talk (3)](https://user-images.githubusercontent.com/77043377/168203617-bdc34638-be5e-4cc5-a9f7-572fa57e2788.png)
 ![Bee's FINAL con talk (4)](https://user-images.githubusercontent.com/77043377/168203622-84a4a1e9-c26c-4992-bb64-3870a9dac71a.png)
 ![Bee's FINAL con talk (5)](https://user-images.githubusercontent.com/77043377/168203631-4b96647a-b41b-4e98-b1df-2f46a228a118.png)
